@@ -1,9 +1,8 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
 
 function updateTime() {
-    const updateTime = new Date().toISOString();
-    fs.writeFileSync('./api/static/data/time.txt', updateTime);
+  const updateTime = new Date().toISOString();
+  fs.writeFileSync("../public/time.txt", updateTime);
 }
 
 module.exports = updateTime;

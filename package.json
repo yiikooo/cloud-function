@@ -1,11 +1,8 @@
 {
-  "name": "yeppioo.friend-checker",
+  "name": "yiiko",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Yeppioo",
+  "author": "yiiko",
   "license": "GPL-3.0-or-later",
   "description": "",
   "dependencies": {

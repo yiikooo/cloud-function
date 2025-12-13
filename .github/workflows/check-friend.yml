@@ -2,19 +2,19 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '0 */5 * * *'  # 每五小时的第 0 分钟运行（如 0:00, 5:00, 10:00 等）
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   repository_dispatch:
-    types: [external_update]
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - 'api/static/data/*'
+    types: [external_check_friend]
+  # push:
+  #   branches:
+  #     - main
+  #   paths-ignore:
+  #     - "api/static/data/*"
 
 jobs:
   update-data:
-    if: github.actor != 'github-actions[bot]'
+    # if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -25,13 +25,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install
 
-      - name: Run app.js
-        run: node app.js
+      - name: Run
+        run: node ./service/friend-checker.js
 
       - name: Commit and push
         run: |
