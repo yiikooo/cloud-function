@@ -57,15 +57,15 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "冰火之砺",
-      "url": "https://blog.marice.top/",
-      "avatar": "https://pic.imgdb.cn/item/63957624b1fccdcd363145ca.png",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
       "name": "ZeroLatency",
       "url": "https://blog.3ms.run",
       "avatar": "https://blog.3ms.run/img/avatar-icon.jpg",
+      "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "冰火之砺",
+      "url": "https://blog.marice.top/",
+      "avatar": "https://pic.imgdb.cn/item/63957624b1fccdcd363145ca.png",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
@@ -87,16 +87,16 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
+      "name": "WuWu",
+      "url": "https://koumakan.space",
+      "avatar": "https://koumakan.space/images/1.webp",
+      "detectedOldDomain": "yeppioo.vip"
+    },
+    {
       "name": "polar-bear～Blog",
       "url": "https://polar-bear.eu.org/",
       "avatar": "https://polar-bear.eu.org/img/hand.jpg",
       "detectedOldDomain": "yep.vin"
-    },
-    {
-      "name": "Mo的记事簿",
-      "url": "https://blog.xiowo.net/",
-      "avatar": "https://bu.dusays.com/2023/07/22/64bb7a6a7ddf8.png",
-      "detectedOldDomain": "yeppioo.vip"
     },
     {
       "name": "Haoyu",
@@ -117,16 +117,22 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "iMaeGoo",
-      "url": "https://www.imaegoo.com",
-      "avatar": "https://www.imaegoo.com/images/avatar.jpg",
+      "name": "点点点",
+      "url": "https://www.wccto.com/",
+      "avatar": "https://www.wccto.com/upload/wccto.png",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "WuWu",
-      "url": "https://koumakan.space",
-      "avatar": "https://koumakan.space/images/1.webp",
+      "name": "Mo的记事簿",
+      "url": "https://blog.xiowo.net/",
+      "avatar": "https://bu.dusays.com/2023/07/22/64bb7a6a7ddf8.png",
       "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "青桔气球",
+      "url": "https://blog.qjqq.cn/",
+      "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar",
+      "detectedOldDomain": "daiyu.fun"
     },
     {
       "name": "开源大数据驿站",
@@ -141,33 +147,15 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "极客日记",
-      "url": "https://www.explorexd.com",
-      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
-      "detectedOldDomain": "yep.vin"
-    },
-    {
-      "name": "Pupper",
-      "url": "https://pupper.cn",
-      "avatar": "https://img.pupper.cn/img/202307151348675.png",
-      "detectedOldDomain": "yep.vin"
+      "name": "lusyoe",
+      "url": "https://blog.lusyoe.com",
+      "avatar": "https://blog.lusyoe.com/avatar.svg",
+      "detectedOldDomain": "yeppioo.vip"
     },
     {
       "name": "Honesty",
       "url": "https://blog.hehouhui.cn",
       "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
-      "name": "彬红茶日记",
-      "url": "https://note.redcha.cn",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
-      "name": "小聂的窝",
-      "url": "https://xiaonie.xyz/",
-      "avatar": "https://xiaonie.xyz/upload/logo.webp",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
@@ -177,10 +165,34 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "lusyoe",
-      "url": "https://blog.lusyoe.com",
-      "avatar": "https://blog.lusyoe.com/avatar.svg",
+      "name": "彬红茶日记",
+      "url": "https://note.redcha.cn",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
       "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "iMaeGoo",
+      "url": "https://www.imaegoo.com",
+      "avatar": "https://www.imaegoo.com/images/avatar.jpg",
+      "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "小聂的窝",
+      "url": "https://xiaonie.xyz/",
+      "avatar": "https://xiaonie.xyz/upload/logo.webp",
+      "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "Pupper",
+      "url": "https://pupper.cn",
+      "avatar": "https://img.pupper.cn/img/202307151348675.png",
+      "detectedOldDomain": "yep.vin"
+    },
+    {
+      "name": "极客日记",
+      "url": "https://www.explorexd.com",
+      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
+      "detectedOldDomain": "yep.vin"
     },
     {
       "name": "张洪Heo",
@@ -197,20 +209,10 @@
   ],
   "fail": [
     {
-      "name": "青桔气球",
-      "url": "https://blog.qjqq.cn/",
-      "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar",
-      "errorCodes": [
-        403,
-        502
-      ]
-    },
-    {
       "name": "天渺studio",
       "url": "https://tianmiao.site",
       "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
       "errorCodes": [
-        "ECONNABORTED",
         404
       ]
     },
@@ -223,14 +225,6 @@
       ]
     },
     {
-      "name": "点点点",
-      "url": "https://www.wccto.com/",
-      "avatar": "https://www.wccto.com/upload/wccto.png",
-      "errorCodes": [
-        403
-      ]
-    },
-    {
       "name": "周天记",
       "url": "https://zhoutian.com",
       "avatar": "https://bu.dusays.com/2023/01/29/63d5bf7fa0d2c.png",
@@ -239,17 +233,17 @@
       ]
     },
     {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "name": "八对星星",
+      "url": "https://8dui.com",
+      "avatar": "https://cf.8dui.com/logo.webp",
       "errorCodes": [
         404
       ]
     },
     {
-      "name": "八对星星",
-      "url": "https://8dui.com",
-      "avatar": "https://cf.8dui.com/logo.webp",
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
       "errorCodes": [
         404
       ]
@@ -285,5 +279,5 @@
       "avatar": "https://blog.ciraos.top/avatar.avif"
     }
   ],
-  "updateTime": "2025-12-13T17:04:57.910Z"
+  "updateTime": "2025-12-13T18:56:06.126Z"
 }
