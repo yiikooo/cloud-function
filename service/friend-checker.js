@@ -6,7 +6,7 @@ const config = {
   friendChecker: {
     ignore: ["hexo.io"],
     export: true,
-    exportPath: "../public/friend.json",
+    exportPath: "./public/friend.json",
     linkPage: "https://blog.yik.at/page/link",
     backLink: ["yik.at"],
     oldLink: ["yep.vin", "daiyu.fun", "yeppioo.vip"],
