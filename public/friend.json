@@ -19,16 +19,16 @@
       "page": "https://ethereal.ac.cn/link"
     },
     {
-      "name": "我的编程之路",
-      "url": "https://yys.zone/",
-      "avatar": "https://yys.zone/static/avatar.jpg",
-      "page": "https://yys.zone/friend-links"
-    },
-    {
       "name": "bbb-lsy07",
       "url": "https://blog.6uu.us/",
       "avatar": "https://images.6uu.us/20250511114301488.JPG",
       "page": "https://blog.6uu.us/links"
+    },
+    {
+      "name": "我的编程之路",
+      "url": "https://yys.zone/",
+      "avatar": "https://yys.zone/static/avatar.jpg",
+      "page": "https://yys.zone/friend-links"
     },
     {
       "name": "WuWu",
@@ -37,10 +37,10 @@
       "page": "https://koumakan.space/link"
     },
     {
-      "name": "❖星港◎Star☆",
-      "url": "https://blog.starsharbor.com",
-      "avatar": "https://bu.dusays.com/2025/04/11/67f92f6fcfb26.webp",
-      "page": "https://blog.starsharbor.com/links"
+      "name": "fishcpy",
+      "url": "https://blog.fis.ink/",
+      "avatar": "https://www.fis.ink/img/logo.png",
+      "page": "https://blog.fis.ink/link"
     },
     {
       "name": "柠檬星",
@@ -49,10 +49,16 @@
       "page": "https://blog.lemonstar.me/links"
     },
     {
-      "name": "fishcpy",
-      "url": "https://blog.fis.ink/",
-      "avatar": "https://www.fis.ink/img/logo.png",
-      "page": "https://blog.fis.ink/link"
+      "name": "❖星港◎Star☆",
+      "url": "https://blog.starsharbor.com",
+      "avatar": "https://bu.dusays.com/2025/04/11/67f92f6fcfb26.webp",
+      "page": "https://blog.starsharbor.com/links"
+    },
+    {
+      "name": "Honesty",
+      "url": "https://blog.hehouhui.cn",
+      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
+      "page": "https://blog.hehouhui.cn/pages/links"
     },
     {
       "name": "开源大数据驿站",
@@ -61,10 +67,10 @@
       "page": "https://blog.kpretty.tech/link"
     },
     {
-      "name": "小聂的窝",
-      "url": "https://xiaonie.xyz/",
-      "avatar": "https://xiaonie.xyz/upload/logo.webp",
-      "page": "https://xiaonie.xyz/friends"
+      "name": "小改学习志",
+      "url": "https://www.haoyu233.com",
+      "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g",
+      "page": "https://www.haoyu233.com/friend-links"
     },
     {
       "name": "保哥笔记",
@@ -73,16 +79,10 @@
       "page": "https://zhangwenbao.com/friends"
     },
     {
-      "name": "小改学习志",
-      "url": "https://www.haoyu233.com",
-      "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g",
-      "page": "https://www.haoyu233.com/friend-links"
-    },
-    {
-      "name": "Honesty",
-      "url": "https://blog.hehouhui.cn",
-      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
-      "page": "https://blog.hehouhui.cn/links.html"
+      "name": "小聂的窝",
+      "url": "https://xiaonie.xyz/",
+      "avatar": "https://xiaonie.xyz/upload/logo.webp",
+      "page": "https://xiaonie.xyz/friends"
     },
     {
       "name": "Plasmon222",
@@ -165,16 +165,16 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "青桔气球",
-      "url": "https://blog.qjqq.cn/",
-      "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar",
-      "detectedOldDomain": "daiyu.fun"
-    },
-    {
       "name": "点点点",
       "url": "https://www.wccto.com/",
       "avatar": "https://www.wccto.com/upload/wccto.png",
       "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "青桔气球",
+      "url": "https://blog.qjqq.cn/",
+      "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar",
+      "detectedOldDomain": "daiyu.fun"
     },
     {
       "name": "Echo 的小窝",
@@ -183,10 +183,10 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "极客日记",
-      "url": "https://www.explorexd.com",
-      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
-      "detectedOldDomain": "yep.vin"
+      "name": "lusyoe",
+      "url": "https://blog.lusyoe.com",
+      "avatar": "https://blog.lusyoe.com/avatar.svg",
+      "detectedOldDomain": "yeppioo.vip"
     },
     {
       "name": "Pupper",
@@ -195,15 +195,15 @@
       "detectedOldDomain": "yep.vin"
     },
     {
+      "name": "极客日记",
+      "url": "https://www.explorexd.com",
+      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
+      "detectedOldDomain": "yep.vin"
+    },
+    {
       "name": "彬红茶日记",
       "url": "https://note.redcha.cn",
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
-      "name": "lusyoe",
-      "url": "https://blog.lusyoe.com",
-      "avatar": "https://blog.lusyoe.com/avatar.svg",
       "detectedOldDomain": "yeppioo.vip"
     }
   ],
@@ -212,14 +212,6 @@
       "name": "天渺studio",
       "url": "https://tianmiao.site",
       "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
-      "errorCodes": [
-        404
-      ]
-    },
-    {
-      "name": "八对星星",
-      "url": "https://8dui.com",
-      "avatar": "https://cf.8dui.com/logo.webp",
       "errorCodes": [
         404
       ]
@@ -236,6 +228,14 @@
       "name": "周天记",
       "url": "https://zhoutian.com",
       "avatar": "https://bu.dusays.com/2023/01/29/63d5bf7fa0d2c.png",
+      "errorCodes": [
+        404
+      ]
+    },
+    {
+      "name": "八对星星",
+      "url": "https://8dui.com",
+      "avatar": "https://cf.8dui.com/logo.webp",
       "errorCodes": [
         404
       ]
@@ -269,14 +269,14 @@
       "avatar": "https://ming-e.space/images/1.webp"
     },
     {
-      "name": "安知鱼`Blog",
-      "url": "https://blog.anheyu.com/",
-      "avatar": "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg"
-    },
-    {
       "name": "葱苓小筑",
       "url": "https://blog.ciraos.top",
       "avatar": "https://blog.ciraos.top/avatar.avif"
+    },
+    {
+      "name": "安知鱼`Blog",
+      "url": "https://blog.anheyu.com/",
+      "avatar": "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg"
     },
     {
       "name": "灵光一刻",
@@ -284,5 +284,5 @@
       "avatar": "https://wuliqun.cn/star.png"
     }
   ],
-  "updateTime": "2025-12-21T12:34:17.092Z"
+  "updateTime": "2025-12-22T01:25:34.621Z"
 }
