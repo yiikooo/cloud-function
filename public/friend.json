@@ -25,10 +25,16 @@
       "page": "https://yys.zone/friend-links"
     },
     {
-      "name": "Mo的记事簿",
-      "url": "https://blog.xiowo.net/",
-      "avatar": "https://bu.dusays.com/2023/07/22/64bb7a6a7ddf8.png",
-      "page": "https://blog.xiowo.net/link"
+      "name": "bbb-lsy07",
+      "url": "https://blog.6uu.us/",
+      "avatar": "https://images.6uu.us/20250511114301488.JPG",
+      "page": "https://blog.6uu.us/links"
+    },
+    {
+      "name": "WuWu",
+      "url": "https://koumakan.space",
+      "avatar": "https://koumakan.space/images/1.webp",
+      "page": "https://koumakan.space/link"
     },
     {
       "name": "张洪Heo",
@@ -37,10 +43,10 @@
       "page": "https://blog.zhheo.com/link"
     },
     {
-      "name": "fishcpy",
-      "url": "https://blog.fis.ink/",
-      "avatar": "https://www.fis.ink/img/logo.png",
-      "page": "https://blog.fis.ink/link"
+      "name": "Mo的记事簿",
+      "url": "https://blog.xiowo.net/",
+      "avatar": "https://bu.dusays.com/2023/07/22/64bb7a6a7ddf8.png",
+      "page": "https://blog.xiowo.net/link"
     },
     {
       "name": "❖星港◎Star☆",
@@ -55,10 +61,10 @@
       "page": "https://blog.lemonstar.me/links"
     },
     {
-      "name": "WuWu",
-      "url": "https://koumakan.space",
-      "avatar": "https://koumakan.space/images/1.webp",
-      "page": "https://koumakan.space/link"
+      "name": "fishcpy",
+      "url": "https://blog.fis.ink/",
+      "avatar": "https://www.fis.ink/img/logo.png",
+      "page": "https://blog.fis.ink/link"
     },
     {
       "name": "Honesty",
@@ -73,28 +79,28 @@
       "page": "https://blog.kpretty.tech/link"
     },
     {
+      "name": "极客日记",
+      "url": "https://www.explorexd.com",
+      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
+      "page": "https://www.explorexd.com/links"
+    },
+    {
       "name": "小聂的窝",
       "url": "https://xiaonie.xyz/",
       "avatar": "https://xiaonie.xyz/upload/logo.webp",
       "page": "https://xiaonie.xyz/friends"
     },
     {
-      "name": "bbb-lsy07",
-      "url": "https://blog.6uu.us/",
-      "avatar": "https://images.6uu.us/20250511114301488.JPG",
-      "page": "https://blog.6uu.us/links"
+      "name": "Plasmon222",
+      "url": "https://blog.loveak.top/",
+      "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
+      "page": "https://blog.loveak.top/link"
     },
     {
       "name": "保哥笔记",
       "url": "https://zhangwenbao.com/",
       "avatar": "https://zhangwenbao.com/img/paul.jpg",
       "page": "https://zhangwenbao.com/friends"
-    },
-    {
-      "name": "Plasmon222",
-      "url": "https://blog.loveak.top/",
-      "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
-      "page": "https://blog.loveak.top/link"
     }
   ],
   "old": [
@@ -117,15 +123,15 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "ZeroLatency",
-      "url": "https://blog.3ms.run",
-      "avatar": "https://blog.3ms.run/img/avatar-icon.jpg",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
       "name": "冰火之砺",
       "url": "https://blog.marice.top/",
       "avatar": "https://pic.imgdb.cn/item/63957624b1fccdcd363145ca.png",
+      "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "ZeroLatency",
+      "url": "https://blog.3ms.run",
+      "avatar": "https://blog.3ms.run/img/avatar-icon.jpg",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
@@ -135,9 +141,9 @@
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "点点点",
-      "url": "https://www.wccto.com/",
-      "avatar": "https://www.wccto.com/upload/wccto.png",
+      "name": "Haoyu",
+      "url": "https://g-haoyu.top/",
+      "avatar": "https://g-haoyu.top/img/avatar.png",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
@@ -147,21 +153,15 @@
       "detectedOldDomain": "yep.vin"
     },
     {
-      "name": "Haoyu",
-      "url": "https://g-haoyu.top/",
-      "avatar": "https://g-haoyu.top/img/avatar.png",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
       "name": "vegecai",
       "url": "https://blog.vegecai.moe/",
       "avatar": "https://img.vegecai.moe/me.jpg",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
-      "name": "iMaeGoo",
-      "url": "https://www.imaegoo.com",
-      "avatar": "https://www.imaegoo.com/images/avatar.jpg",
+      "name": "点点点",
+      "url": "https://www.wccto.com/",
+      "avatar": "https://www.wccto.com/upload/wccto.png",
       "detectedOldDomain": "yeppioo.vip"
     },
     {
@@ -171,10 +171,10 @@
       "detectedOldDomain": "daiyu.fun"
     },
     {
-      "name": "极客日记",
-      "url": "https://www.explorexd.com",
-      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
-      "detectedOldDomain": "yep.vin"
+      "name": "iMaeGoo",
+      "url": "https://www.imaegoo.com",
+      "avatar": "https://www.imaegoo.com/images/avatar.jpg",
+      "detectedOldDomain": "yeppioo.vip"
     },
     {
       "name": "Echo 的小窝",
@@ -189,19 +189,27 @@
       "detectedOldDomain": "yep.vin"
     },
     {
-      "name": "lusyoe",
-      "url": "https://blog.lusyoe.com",
-      "avatar": "https://blog.lusyoe.com/avatar.svg",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
       "name": "彬红茶日记",
       "url": "https://note.redcha.cn",
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
       "detectedOldDomain": "yeppioo.vip"
+    },
+    {
+      "name": "lusyoe",
+      "url": "https://blog.lusyoe.com",
+      "avatar": "https://blog.lusyoe.com/avatar.svg",
+      "detectedOldDomain": "yeppioo.vip"
     }
   ],
   "fail": [
+    {
+      "name": "天渺studio",
+      "url": "https://tianmiao.site",
+      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
+      "errorCodes": [
+        404
+      ]
+    },
     {
       "name": "八对星星",
       "url": "https://8dui.com",
@@ -211,11 +219,10 @@
       ]
     },
     {
-      "name": "天渺studio",
-      "url": "https://tianmiao.site",
-      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
+      "name": "周天记",
+      "url": "https://zhoutian.com",
+      "avatar": "https://bu.dusays.com/2023/01/29/63d5bf7fa0d2c.png",
       "errorCodes": [
-        "ECONNABORTED",
         404
       ]
     },
@@ -224,16 +231,14 @@
       "url": "https://akilar.top/",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
       "errorCodes": [
-        "ERR_TLS_CERT_ALTNAME_INVALID",
-        "ECONNABORTED"
+        "ERR_TLS_CERT_ALTNAME_INVALID"
       ]
     },
     {
-      "name": "周天记",
-      "url": "https://zhoutian.com",
-      "avatar": "https://bu.dusays.com/2023/01/29/63d5bf7fa0d2c.png",
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
       "errorCodes": [
-        "ECONNABORTED",
         404
       ]
     },
@@ -242,15 +247,6 @@
       "url": "https://blog.gumengyo.top",
       "avatar": "https://cloud.gumengyo.top/avatar.png",
       "errorCodes": [
-        404
-      ]
-    },
-    {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
-      "errorCodes": [
-        "ECONNABORTED",
         404
       ]
     },
@@ -271,14 +267,14 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "name": "WuWu",
-      "url": "https://ming-e.space",
-      "avatar": "https://ming-e.space/images/1.webp"
-    },
-    {
       "name": "安知鱼`Blog",
       "url": "https://blog.anheyu.com/",
       "avatar": "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg"
+    },
+    {
+      "name": "WuWu",
+      "url": "https://ming-e.space",
+      "avatar": "https://ming-e.space/images/1.webp"
     },
     {
       "name": "葱苓小筑",
@@ -296,5 +292,5 @@
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-01-01T15:48:10.339Z"
+  "updateTime": "2026-01-02T01:24:31.498Z"
 }
