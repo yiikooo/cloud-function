@@ -13,16 +13,16 @@
       "page": "https://wjldarling.top/social/link/"
     },
     {
-      "name": "ADYUN",
-      "url": "https://blog.adyun.design/",
-      "avatar": "https://blog.adyun.design/upload/logo1-lxxe.png",
-      "page": "https://blog.adyun.design/links"
-    },
-    {
       "name": "Ethereal",
       "url": "https://ethereal.ac.cn/",
       "avatar": "https://tuchuang.voooe.cn/images/2025/12/20/jojo.jpg",
       "page": "https://ethereal.ac.cn/link"
+    },
+    {
+      "name": "ADYUN",
+      "url": "https://blog.adyun.design/",
+      "avatar": "https://blog.adyun.design/upload/logo1-lxxe.png",
+      "page": "https://blog.adyun.design/links"
     },
     {
       "name": "我的编程之路",
@@ -61,6 +61,18 @@
       "page": "https://blog.lemonstar.me/links"
     },
     {
+      "name": "YGKing",
+      "url": "https://ygking.top/",
+      "avatar": "https://ygking.top/img/cover.jpg",
+      "page": "https://ygking.top/link"
+    },
+    {
+      "name": "Honesty",
+      "url": "https://blog.hehouhui.cn",
+      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
+      "page": "https://blog.hehouhui.cn/links.html"
+    },
+    {
       "name": "开源大数据驿站",
       "url": "https://blog.kpretty.tech/",
       "avatar": "https://oss.kpretty.tech/attachment/avatar.webp",
@@ -79,28 +91,22 @@
       "page": "https://blog.lris625.top/link"
     },
     {
-      "name": "Honesty",
-      "url": "https://blog.hehouhui.cn",
-      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
-      "page": "https://blog.hehouhui.cn/links.html"
-    },
-    {
       "name": "彬红茶日记",
       "url": "https://note.redcha.cn",
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
       "page": "https://note.redcha.cn/links"
     },
     {
-      "name": "bbb-lsy07",
-      "url": "https://blog.6uu.us/",
-      "avatar": "https://images.6uu.us/20250511114301488.JPG",
-      "page": "https://blog.6uu.us/links"
-    },
-    {
       "name": "Plasmon222",
       "url": "https://blog.loveak.top/",
       "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
       "page": "https://blog.loveak.top/link"
+    },
+    {
+      "name": "bbb-lsy07",
+      "url": "https://blog.6uu.us/",
+      "avatar": "https://images.6uu.us/20250511114301488.JPG",
+      "page": "https://blog.6uu.us/links"
     }
   ],
   "old": [
@@ -125,19 +131,11 @@
   ],
   "fail": [
     {
-      "name": "点点点",
-      "url": "https://www.wccto.com/",
-      "avatar": "https://www.wccto.com/upload/wccto.png",
+      "name": "Akilarの糖果屋",
+      "url": "https://akilar.top/",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
       "errorCodes": [
-        404
-      ]
-    },
-    {
-      "name": "天渺studio",
-      "url": "https://tianmiao.site",
-      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
-      "errorCodes": [
-        404
+        "ERR_TLS_CERT_ALTNAME_INVALID"
       ]
     },
     {
@@ -149,17 +147,9 @@
       ]
     },
     {
-      "name": "Akilarの糖果屋",
-      "url": "https://akilar.top/",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
-      "errorCodes": [
-        "ERR_TLS_CERT_ALTNAME_INVALID"
-      ]
-    },
-    {
-      "name": "极客日记",
-      "url": "https://www.explorexd.com",
-      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
       "errorCodes": [
         404
       ]
@@ -173,10 +163,28 @@
       ]
     },
     {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "name": "极客日记",
+      "url": "https://www.explorexd.com",
+      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
       "errorCodes": [
+        404
+      ]
+    },
+    {
+      "name": "点点点",
+      "url": "https://www.wccto.com/",
+      "avatar": "https://www.wccto.com/upload/wccto.png",
+      "errorCodes": [
+        "ETIMEDOUT",
+        404
+      ]
+    },
+    {
+      "name": "天渺studio",
+      "url": "https://tianmiao.site",
+      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
+      "errorCodes": [
+        "ECONNABORTED",
         404
       ]
     },
@@ -215,15 +223,10 @@
       "avatar": "https://blog.ciraos.top/avatar.avif"
     },
     {
-      "name": "YGKing",
-      "url": "https://ygking.top/",
-      "avatar": "https://ygking.top/img/cover.jpg"
-    },
-    {
       "name": "小改学习志",
       "url": "https://www.haoyu233.com",
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-01-10T12:34:59.556Z"
+  "updateTime": "2026-01-10T16:42:34.493Z"
 }
