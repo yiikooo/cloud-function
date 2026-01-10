@@ -13,16 +13,16 @@
       "page": "https://wjldarling.top/social/link/"
     },
     {
-      "name": "Ethereal",
-      "url": "https://ethereal.ac.cn/",
-      "avatar": "https://tuchuang.voooe.cn/images/2025/12/20/jojo.jpg",
-      "page": "https://ethereal.ac.cn/link"
-    },
-    {
       "name": "ADYUN",
       "url": "https://blog.adyun.design/",
       "avatar": "https://blog.adyun.design/upload/logo1-lxxe.png",
       "page": "https://blog.adyun.design/links"
+    },
+    {
+      "name": "Ethereal",
+      "url": "https://ethereal.ac.cn/",
+      "avatar": "https://tuchuang.voooe.cn/images/2025/12/20/jojo.jpg",
+      "page": "https://ethereal.ac.cn/link"
     },
     {
       "name": "我的编程之路",
@@ -67,16 +67,16 @@
       "page": "https://ygking.top/link"
     },
     {
-      "name": "Honesty",
-      "url": "https://blog.hehouhui.cn",
-      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
-      "page": "https://blog.hehouhui.cn/links.html"
-    },
-    {
       "name": "开源大数据驿站",
       "url": "https://blog.kpretty.tech/",
       "avatar": "https://oss.kpretty.tech/attachment/avatar.webp",
       "page": "https://blog.kpretty.tech/link"
+    },
+    {
+      "name": "Honesty",
+      "url": "https://blog.hehouhui.cn",
+      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
+      "page": "https://blog.hehouhui.cn/links.html"
     },
     {
       "name": "保哥笔记",
@@ -91,16 +91,16 @@
       "page": "https://blog.lris625.top/link"
     },
     {
-      "name": "彬红茶日记",
-      "url": "https://note.redcha.cn",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
-      "page": "https://note.redcha.cn/links"
-    },
-    {
       "name": "Plasmon222",
       "url": "https://blog.loveak.top/",
       "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
       "page": "https://blog.loveak.top/link"
+    },
+    {
+      "name": "彬红茶日记",
+      "url": "https://note.redcha.cn",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
+      "page": "https://note.redcha.cn/links"
     },
     {
       "name": "bbb-lsy07",
@@ -131,6 +131,14 @@
   ],
   "fail": [
     {
+      "name": "天渺studio",
+      "url": "https://tianmiao.site",
+      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
+      "errorCodes": [
+        404
+      ]
+    },
+    {
       "name": "Akilarの糖果屋",
       "url": "https://akilar.top/",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
@@ -139,17 +147,17 @@
       ]
     },
     {
-      "name": "周天记",
-      "url": "https://zhoutian.com",
-      "avatar": "https://bu.dusays.com/2023/01/29/63d5bf7fa0d2c.png",
+      "name": "点点点",
+      "url": "https://www.wccto.com/",
+      "avatar": "https://www.wccto.com/upload/wccto.png",
       "errorCodes": [
         404
       ]
     },
     {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "name": "周天记",
+      "url": "https://zhoutian.com",
+      "avatar": "https://bu.dusays.com/2023/01/29/63d5bf7fa0d2c.png",
       "errorCodes": [
         404
       ]
@@ -171,20 +179,10 @@
       ]
     },
     {
-      "name": "点点点",
-      "url": "https://www.wccto.com/",
-      "avatar": "https://www.wccto.com/upload/wccto.png",
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
       "errorCodes": [
-        "ETIMEDOUT",
-        404
-      ]
-    },
-    {
-      "name": "天渺studio",
-      "url": "https://tianmiao.site",
-      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
-      "errorCodes": [
-        "ECONNABORTED",
         404
       ]
     },
@@ -228,5 +226,5 @@
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-01-10T16:42:34.493Z"
+  "updateTime": "2026-01-10T17:15:18.161Z"
 }
