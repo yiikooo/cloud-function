@@ -31,28 +31,16 @@
       "page": "https://yys.zone/friend-links"
     },
     {
-      "name": "bbb-lsy07",
-      "url": "https://blog.6uu.us/",
-      "avatar": "https://images.6uu.us/20250511114301488.JPG",
-      "page": "https://blog.6uu.us/links"
-    },
-    {
       "name": "WuWu",
       "url": "https://koumakan.space",
       "avatar": "https://koumakan.space/images/1.webp",
       "page": "https://koumakan.space/link"
     },
     {
-      "name": "Honesty",
-      "url": "https://blog.hehouhui.cn",
-      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
-      "page": "https://blog.hehouhui.cn/pages/links"
-    },
-    {
-      "name": "张洪Heo",
-      "url": "https://blog.zhheo.com/",
-      "avatar": "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png",
-      "page": "https://blog.zhheo.com/link"
+      "name": "bbb-lsy07",
+      "url": "https://blog.6uu.us/",
+      "avatar": "https://images.6uu.us/20250511114301488.JPG",
+      "page": "https://blog.6uu.us/links"
     },
     {
       "name": "柠檬星",
@@ -73,28 +61,22 @@
       "page": "https://ygking.top/link"
     },
     {
-      "name": "开源大数据驿站",
-      "url": "https://blog.kpretty.tech/",
-      "avatar": "https://oss.kpretty.tech/attachment/avatar.webp",
-      "page": "https://blog.kpretty.tech/link"
-    },
-    {
       "name": "极客日记",
       "url": "https://www.explorexd.com",
       "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
       "page": "https://www.explorexd.com/links"
     },
     {
-      "name": "彬红茶日记",
-      "url": "https://note.redcha.cn",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
-      "page": "https://note.redcha.cn/links"
+      "name": "张洪Heo",
+      "url": "https://blog.zhheo.com/",
+      "avatar": "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png",
+      "page": "https://blog.zhheo.com/link"
     },
     {
-      "name": "保哥笔记",
-      "url": "https://zhangwenbao.com/",
-      "avatar": "https://zhangwenbao.com/img/paul.jpg",
-      "page": "https://zhangwenbao.com/friends"
+      "name": "开源大数据驿站",
+      "url": "https://blog.kpretty.tech/",
+      "avatar": "https://oss.kpretty.tech/attachment/avatar.webp",
+      "page": "https://blog.kpretty.tech/link"
     },
     {
       "name": "❖星港◎Star☆",
@@ -103,22 +85,40 @@
       "page": "https://blog.starsharbor.com/links"
     },
     {
+      "name": "保哥笔记",
+      "url": "https://zhangwenbao.com/",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg",
+      "page": "https://zhangwenbao.com/friends"
+    },
+    {
       "name": "Lucas",
       "url": "https://blog.lris625.top/",
       "avatar": "https://pic1.imgdb.cn/item/68fe309a3203f7be00a0c198.png",
       "page": "https://blog.lris625.top/link"
     },
     {
-      "name": "八对星星",
-      "url": "https://8dui.com",
-      "avatar": "https://cf.8dui.com/logo.webp",
-      "page": "https://8dui.com/links"
-    },
-    {
       "name": "Plasmon222",
       "url": "https://blog.loveak.top/",
       "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
       "page": "https://blog.loveak.top/link"
+    },
+    {
+      "name": "彬红茶日记",
+      "url": "https://note.redcha.cn",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
+      "page": "https://note.redcha.cn/links"
+    },
+    {
+      "name": "Honesty",
+      "url": "https://blog.hehouhui.cn",
+      "avatar": "https://blog-file.hehouhui.cn/202507171929231.jpeg",
+      "page": "https://blog.hehouhui.cn/links.html"
+    },
+    {
+      "name": "八对星星",
+      "url": "https://8dui.com",
+      "avatar": "https://cf.8dui.com/logo.webp",
+      "page": "https://8dui.com/links"
     }
   ],
   "old": [
@@ -169,19 +169,18 @@
       ]
     },
     {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "name": "Yourlai",
+      "url": "https://yourlai.icu/",
+      "avatar": "https://cdn.cdn.yourlai.icu/img/logo/ava.png",
       "errorCodes": [
         404
       ]
     },
     {
-      "name": "Yourlai",
-      "url": "https://yourlai.icu/",
-      "avatar": "https://cdn.cdn.yourlai.icu/img/logo/ava.png",
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
       "errorCodes": [
-        "ECONNABORTED",
         404
       ]
     },
@@ -206,7 +205,8 @@
       "url": "https://www.chancep.cn/",
       "avatar": "https://cos.chancep.cn/img/btx.jpg",
       "errorCodes": [
-        "ECONNABORTED"
+        "ECONNABORTED",
+        404
       ]
     }
   ],
@@ -232,5 +232,5 @@
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-02-21T12:42:16.073Z"
+  "updateTime": "2026-02-22T01:55:24.424Z"
 }
