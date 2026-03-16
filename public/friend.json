@@ -25,16 +25,16 @@
       "page": "https://ethereal.ac.cn/link"
     },
     {
-      "name": "❖星港◎Star☆",
-      "url": "https://blog.starsharbor.com",
-      "avatar": "https://bu.dusays.com/2025/04/11/67f92f6fcfb26.webp",
-      "page": "https://blog.starsharbor.com/links"
-    },
-    {
       "name": "我的编程之路",
       "url": "https://yys.zone/",
       "avatar": "https://yys.zone/static/avatar.jpg",
       "page": "https://yys.zone/friend-links"
+    },
+    {
+      "name": "❖星港◎Star☆",
+      "url": "https://blog.starsharbor.com",
+      "avatar": "https://bu.dusays.com/2025/04/11/67f92f6fcfb26.webp",
+      "page": "https://blog.starsharbor.com/links"
     },
     {
       "name": "WuWu",
@@ -73,10 +73,16 @@
       "page": "https://blog.lris625.top/link"
     },
     {
-      "name": "Plasmon222",
-      "url": "https://blog.loveak.top/",
-      "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
-      "page": "https://blog.loveak.top/link"
+      "name": "彬红茶日记",
+      "url": "https://note.redcha.cn",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
+      "page": "https://note.redcha.cn/links"
+    },
+    {
+      "name": "卖烤肉",
+      "url": "https://b.ncii.cn/",
+      "avatar": "https://cdn.ncii.cn/picbase/lsky/2025/06/19/68536bcb5851d.webp",
+      "page": "https://b.ncii.cn/links"
     },
     {
       "name": "极客日记",
@@ -91,22 +97,22 @@
       "page": "https://blog.hehouhui.cn/links.html"
     },
     {
-      "name": "彬红茶日记",
-      "url": "https://note.redcha.cn",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
-      "page": "https://note.redcha.cn/links"
-    },
-    {
-      "name": "八对星星",
-      "url": "https://8dui.com",
-      "avatar": "https://cf.8dui.com/logo.webp",
-      "page": "https://8dui.com/links"
+      "name": "Plasmon222",
+      "url": "https://blog.loveak.top/",
+      "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
+      "page": "https://blog.loveak.top/link"
     },
     {
       "name": "fishcpy",
       "url": "https://blog.fis.ink/",
       "avatar": "https://www.fis.ink/img/logo.png",
       "page": "https://blog.fis.ink/link"
+    },
+    {
+      "name": "八对星星",
+      "url": "https://8dui.com",
+      "avatar": "https://cf.8dui.com/logo.webp",
+      "page": "https://8dui.com/links"
     }
   ],
   "old": [
@@ -114,12 +120,6 @@
       "name": "Butterfly",
       "url": "https://butterfly.js.org/",
       "avatar": "https://butterfly.js.org/img/avatar.png",
-      "detectedOldDomain": "yeppioo.vip"
-    },
-    {
-      "name": "点点点",
-      "url": "https://www.wccto.com/",
-      "avatar": "https://www.wccto.com/upload/wccto.png",
       "detectedOldDomain": "yeppioo.vip"
     }
   ],
@@ -165,14 +165,6 @@
       ]
     },
     {
-      "name": "Yourlai",
-      "url": "https://yourlai.icu/",
-      "avatar": "https://cdn.cdn.yourlai.icu/img/logo/ava.png",
-      "errorCodes": [
-        404
-      ]
-    },
-    {
       "name": "孤芳不自赏",
       "url": "https://www.gfbzsblog.site/",
       "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
@@ -181,12 +173,19 @@
       ]
     },
     {
-      "name": "卖烤肉",
-      "url": "https://b.ncii.cn/",
-      "avatar": "https://cdn.ncii.cn/picbase/lsky/2025/06/19/68536bcb5851d.webp",
+      "name": "点点点",
+      "url": "https://www.wccto.com/",
+      "avatar": "https://www.wccto.com/upload/wccto.png",
       "errorCodes": [
-        404,
-        500
+        "ETIMEDOUT"
+      ]
+    },
+    {
+      "name": "Yourlai",
+      "url": "https://yourlai.icu/",
+      "avatar": "https://cdn.cdn.yourlai.icu/img/logo/ava.png",
+      "errorCodes": [
+        404
       ]
     },
     {
@@ -224,14 +223,14 @@
       "avatar": "https://xiaonie.xyz/upload/logo.webp"
     },
     {
-      "name": "葱苓小筑",
-      "url": "https://blog.ciraos.top",
-      "avatar": "https://blog.ciraos.top/avatar.avif"
-    },
-    {
       "name": "安知鱼`Blog",
       "url": "https://blog.anheyu.com/",
       "avatar": "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg"
+    },
+    {
+      "name": "葱苓小筑",
+      "url": "https://blog.ciraos.top",
+      "avatar": "https://blog.ciraos.top/avatar.avif"
     },
     {
       "name": "小改学习志",
@@ -239,5 +238,5 @@
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-03-16T02:05:54.661Z"
+  "updateTime": "2026-03-16T13:05:21.670Z"
 }
