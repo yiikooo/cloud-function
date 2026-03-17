@@ -67,28 +67,16 @@
       "page": "https://blog.kpretty.tech/link"
     },
     {
-      "name": "保哥笔记",
-      "url": "https://zhangwenbao.com/",
-      "avatar": "https://zhangwenbao.com/img/paul.jpg",
-      "page": "https://zhangwenbao.com/friends"
-    },
-    {
       "name": "Lucas",
       "url": "https://blog.lris625.top/",
       "avatar": "https://pic1.imgdb.cn/item/68fe309a3203f7be00a0c198.png",
       "page": "https://blog.lris625.top/link"
     },
     {
-      "name": "极客日记",
-      "url": "https://www.explorexd.com",
-      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
-      "page": "https://www.explorexd.com/links"
-    },
-    {
-      "name": "Plasmon222",
-      "url": "https://blog.loveak.top/",
-      "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
-      "page": "https://blog.loveak.top/link"
+      "name": "保哥笔记",
+      "url": "https://zhangwenbao.com/",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg",
+      "page": "https://zhangwenbao.com/friends"
     },
     {
       "name": "彬红茶日记",
@@ -97,22 +85,34 @@
       "page": "https://note.redcha.cn/links"
     },
     {
+      "name": "极客日记",
+      "url": "https://www.explorexd.com",
+      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
+      "page": "https://www.explorexd.com/links"
+    },
+    {
       "name": "卖烤肉",
       "url": "https://b.ncii.cn/",
       "avatar": "https://cdn.ncii.cn/picbase/lsky/2025/06/19/68536bcb5851d.webp",
       "page": "https://b.ncii.cn/links"
     },
     {
-      "name": "八对星星",
-      "url": "https://8dui.com",
-      "avatar": "https://cf.8dui.com/logo.webp",
-      "page": "https://8dui.com/links"
-    },
-    {
       "name": "fishcpy",
       "url": "https://blog.fis.ink/",
       "avatar": "https://www.fis.ink/img/logo.png",
       "page": "https://blog.fis.ink/link"
+    },
+    {
+      "name": "Plasmon222",
+      "url": "https://blog.loveak.top/",
+      "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
+      "page": "https://blog.loveak.top/link"
+    },
+    {
+      "name": "八对星星",
+      "url": "https://8dui.com",
+      "avatar": "https://cf.8dui.com/logo.webp",
+      "page": "https://8dui.com/links"
     }
   ],
   "old": [
@@ -130,6 +130,14 @@
     }
   ],
   "fail": [
+    {
+      "name": "天渺studio",
+      "url": "https://tianmiao.site",
+      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
+      "errorCodes": [
+        404
+      ]
+    },
     {
       "name": "Akilarの糖果屋",
       "url": "https://akilar.top/",
@@ -171,26 +179,17 @@
       ]
     },
     {
-      "name": "顾梦",
-      "url": "https://blog.gumengyo.top",
-      "avatar": "https://cloud.gumengyo.top/avatar.png",
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
       "errorCodes": [
         404
       ]
     },
     {
-      "name": "天渺studio",
-      "url": "https://tianmiao.site",
-      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
-      "errorCodes": [
-        404,
-        "ECONNABORTED"
-      ]
-    },
-    {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "name": "顾梦",
+      "url": "https://blog.gumengyo.top",
+      "avatar": "https://cloud.gumengyo.top/avatar.png",
       "errorCodes": [
         404
       ]
@@ -237,5 +236,5 @@
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-03-17T01:53:32.069Z"
+  "updateTime": "2026-03-17T13:05:53.420Z"
 }
