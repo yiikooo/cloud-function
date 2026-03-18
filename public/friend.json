@@ -55,6 +55,12 @@
       "page": "https://blog.lemonstar.me/links"
     },
     {
+      "name": "fishcpy",
+      "url": "https://blog.fis.ink/",
+      "avatar": "https://www.fis.ink/img/logo.png",
+      "page": "https://blog.fis.ink/link"
+    },
+    {
       "name": "YGKing",
       "url": "https://ygking.top/",
       "avatar": "https://ygking.top/img/cover.jpg",
@@ -65,6 +71,12 @@
       "url": "https://blog.kpretty.tech/",
       "avatar": "https://oss.kpretty.tech/attachment/avatar.webp",
       "page": "https://blog.kpretty.tech/link"
+    },
+    {
+      "name": "彬红茶日记",
+      "url": "https://note.redcha.cn",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
+      "page": "https://note.redcha.cn/links"
     },
     {
       "name": "Lucas",
@@ -79,34 +91,22 @@
       "page": "https://zhangwenbao.com/friends"
     },
     {
-      "name": "彬红茶日记",
-      "url": "https://note.redcha.cn",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png",
-      "page": "https://note.redcha.cn/links"
-    },
-    {
-      "name": "极客日记",
-      "url": "https://www.explorexd.com",
-      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
-      "page": "https://www.explorexd.com/links"
-    },
-    {
       "name": "卖烤肉",
       "url": "https://b.ncii.cn/",
       "avatar": "https://cdn.ncii.cn/picbase/lsky/2025/06/19/68536bcb5851d.webp",
       "page": "https://b.ncii.cn/links"
     },
     {
-      "name": "fishcpy",
-      "url": "https://blog.fis.ink/",
-      "avatar": "https://www.fis.ink/img/logo.png",
-      "page": "https://blog.fis.ink/link"
-    },
-    {
       "name": "Plasmon222",
       "url": "https://blog.loveak.top/",
       "avatar": "https://bu.dusays.com/2023/09/01/64f19e6f783a9.png",
       "page": "https://blog.loveak.top/link"
+    },
+    {
+      "name": "极客日记",
+      "url": "https://www.explorexd.com",
+      "avatar": "https://halo.cos.explorexd.com/halo/jack.jpeg",
+      "page": "https://www.explorexd.com/links"
     },
     {
       "name": "八对星星",
@@ -130,14 +130,6 @@
     }
   ],
   "fail": [
-    {
-      "name": "天渺studio",
-      "url": "https://tianmiao.site",
-      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
-      "errorCodes": [
-        404
-      ]
-    },
     {
       "name": "Akilarの糖果屋",
       "url": "https://akilar.top/",
@@ -171,6 +163,14 @@
       ]
     },
     {
+      "name": "孤芳不自赏",
+      "url": "https://www.gfbzsblog.site/",
+      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "errorCodes": [
+        404
+      ]
+    },
+    {
       "name": "Yourlai",
       "url": "https://yourlai.icu/",
       "avatar": "https://cdn.cdn.yourlai.icu/img/logo/ava.png",
@@ -179,10 +179,11 @@
       ]
     },
     {
-      "name": "孤芳不自赏",
-      "url": "https://www.gfbzsblog.site/",
-      "avatar": "https://www.gfbzsblog.site/images/avatar_20250520_215057.png",
+      "name": "天渺studio",
+      "url": "https://tianmiao.site",
+      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
       "errorCodes": [
+        "ECONNABORTED",
         404
       ]
     },
@@ -211,19 +212,14 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "name": "小聂的窝",
-      "url": "https://xiaonie.xyz/",
-      "avatar": "https://xiaonie.xyz/upload/logo.webp"
-    },
-    {
       "name": "张洪Heo",
       "url": "https://blog.zhheo.com/",
       "avatar": "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png"
     },
     {
-      "name": "葱苓小筑",
-      "url": "https://blog.ciraos.top",
-      "avatar": "https://blog.ciraos.top/avatar.avif"
+      "name": "小聂的窝",
+      "url": "https://xiaonie.xyz/",
+      "avatar": "https://xiaonie.xyz/upload/logo.webp"
     },
     {
       "name": "安知鱼`Blog",
@@ -231,10 +227,15 @@
       "avatar": "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg"
     },
     {
+      "name": "葱苓小筑",
+      "url": "https://blog.ciraos.top",
+      "avatar": "https://blog.ciraos.top/avatar.avif"
+    },
+    {
       "name": "小改学习志",
       "url": "https://www.haoyu233.com",
       "avatar": "https://cn.cravatar.com/avatar/14e584196d31262ea144ab4d75d4c083?s=500&r=g"
     }
   ],
-  "updateTime": "2026-03-17T13:05:53.420Z"
+  "updateTime": "2026-03-18T01:58:01.010Z"
 }
